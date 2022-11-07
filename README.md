@@ -1,4 +1,4 @@
-# goodmorning_my_brother
+# goodmorning
 微信推送每日早安
 最近微信公众平台每日的天气预报推送刷屏了
 
